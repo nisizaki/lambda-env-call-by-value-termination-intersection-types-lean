@@ -1,0 +1,10 @@
+name = "LambdaEnvCBV"
+version = "0.1.0"
+defaultTargets = ["LambdaEnvCBV"]
+
+[[lean_lib]]
+name = "LambdaEnvCBV"
+
+[leanOptions]
+autoImplicit = false
+relaxedAutoImplicit = false
