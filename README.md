@@ -87,3 +87,7 @@ Please cite the paper:
 > Shin-ya Nishizaki and Shogo Murasaki.
 > Call-by-Value Termination of λenv and its Characterization by Intersection Types,
 > Formalized in Isabelle/HOL.
+
+## License
+
+MIT License (see [LICENSE](LICENSE)).
